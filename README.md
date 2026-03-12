@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Thanaphum223&show_icons=true&theme=radical)
 <!--
 **Thanaphum223/Thanaphum223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
