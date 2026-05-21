@@ -5,9 +5,8 @@
 ---
 
 ### 📈 GitHub Stats
-<a href="https://github.com/Thanaphum223">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Thanaphum223&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_rank=false" />
-</a>
+![Thanaphum223's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thanaphum223&show_icons=true&theme=radical)
+
 ---
 
 ## 🛠 เกี่ยวกับผม
@@ -21,13 +20,11 @@
 ---
 
 ## ⚡ ความสนใจและงานอดิเรก
-*   **Gaming:** Core Keeper, VALORANT, Minecraft, GTA V
-*   **Creative:** สร้างและทำเพลง (Lo-fi, Pop, R&B) ด้วย Suno AI
-*   **Tech Stack:** C#, Lua, JavaScript, Unity
+* **Gaming:** Core Keeper, VALORANT, Minecraft, GTA V
+* **Creative:** สร้างและทำเพลง (Lo-fi, Pop, R&B) ด้วย Suno AI
+* **Tech Stack:** C#, Lua, JavaScript, Unity
 
 ---
 
 ## ⚡ Fun Fact
-ผมเคยเดินทางไปญี่ปุ่นเพื่อตามหาตุ๊กตา Monchhichi โดยเฉพาะ และชอบทานข้าวกะเพราแบบเผ็ดที่สุดครับ!
-
----
+ผมเคยเดินทางไปญี่ปุ่นเพื่อตามหาตุ๊กตา Monchhichi โดยเฉพาะ และชอบทานข้าวกะเพราแบบเผ็ดน้อยที่สุดครับ!
