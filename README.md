@@ -1,4 +1,4 @@
-# 👋 สวัสดีครับ! ผม Thanaphum Jaronrum
+# 👋 สวัสดีครับ! ผม Tanaphum Jaronrum
 
 นักศึกษาจาก Panyapiwat Institute of Management สาขา Computer Engineering and AI ที่มีความหลงใหลในการพัฒนาซอฟต์แวร์, การทำ Data Science และระบบ Quality Assurance
 
