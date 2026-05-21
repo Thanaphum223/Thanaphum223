@@ -4,9 +4,10 @@
 
 ---
 
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Thanaphum223&show_icons=true&theme=radical)
-
+### 📈 GitHub Stats
+<a href="https://github.com/Thanaphum223">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Thanaphum223&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_rank=false" />
+</a>
 ---
 
 ## 🛠 เกี่ยวกับผม
@@ -15,7 +16,7 @@
 - 🌱 **กำลังเรียนรู้:** พัฒนาทักษะด้าน Software Quality Assurance และ Data Science ให้ลึกซึ้งยิ่งขึ้น
 - 👯 **สนใจร่วมงานกับใคร:** ยินดีรับคำปรึกษาและร่วมโปรเจกต์เกี่ยวกับการทำ Automate Testing หรือ Game Development
 - 💬 **ถามเรื่องอะไรได้บ้าง:** Roblox Scripting (Lua), การใช้เครื่องมืออย่าง Suno AI/Soundpad, หรือเทคนิคการทำ QA ในรูปแบบ Agile
-- 📫 **ช่องทางการติดต่อ:** (ใส่ช่องทางที่คุณต้องการให้คนติดต่อ เช่น LinkedIn หรือ Email)
+- 📫 **ช่องทางการติดต่อ:** TNT324455667@gmail.com
 
 ---
 
@@ -27,6 +28,6 @@
 ---
 
 ## ⚡ Fun Fact
-ผมเคยเดินทางไปญี่ปุ่นเพื่อตามหาตุ๊กตา Monchhichi โดยเฉพาะ และชอบทานข้าวกะเพราแบบเผ็ดน้อยที่สุดครับ!
+ผมเคยเดินทางไปญี่ปุ่นเพื่อตามหาตุ๊กตา Monchhichi โดยเฉพาะ และชอบทานข้าวกะเพราแบบเผ็ดที่สุดครับ!
 
 ---
