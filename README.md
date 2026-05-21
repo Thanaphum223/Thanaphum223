@@ -3,10 +3,9 @@
 นักศึกษาจาก Panyapiwat Institute of Management สาขา Computer Engineering and AI ที่มีความหลงใหลในการพัฒนาซอฟต์แวร์, การทำ Data Science และระบบ Quality Assurance
 
 ---
-### 📈 GitHub Stats & Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thanaphum223&theme=radical" alt="GitHub Streak Stats" />
-</p>
+### 📈 GitHub Stats
+[![GitHub Stats](https://img.shields.io/badge/GitHub-Profile_Stats-ff69b4?style=for-the-badge&logo=github)](https://github.com/Thanaphum223)
+[![GitHub Followers](https://img.shields.io/github/followers/Thanaphum223?style=for-the-badge&logo=github)](https://github.com/Thanaphum223?tab=followers)
 ---
 
 ## 🛠 เกี่ยวกับผม
