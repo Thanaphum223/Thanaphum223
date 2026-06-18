@@ -1,6 +1,6 @@
 <div align="center">
   
-  # 👋 สวัสดีครับ! ผม Tanaphum Jaronrum (ภูมิ)
+  # 👋 สวัสดีครับ! ผม Tanaphum Jaronrum (อาร์ม)
   **"Leveling up from Zero to Hero, one line of code at a time."** 🗡️✨
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Software+Quality+Assurance;Game+Developer+(Unity+%26+Roblox);Data+Science+Enthusiast)](https://git.io/typing-svg)
